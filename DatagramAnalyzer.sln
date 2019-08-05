@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatagramAnalyzer", "DatagramAnalyzer\DatagramAnalyzer.csproj", "{824BD5A4-15E6-44E3-8405-593499329804}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCollection", "Submodule\CustomCollection\CustomCollection\CustomCollection.csproj", "{8C91D0F3-C92E-4436-8801-2A2793EE48A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824BD5A4-15E6-44E3-8405-593499329804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824BD5A4-15E6-44E3-8405-593499329804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824BD5A4-15E6-44E3-8405-593499329804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824BD5A4-15E6-44E3-8405-593499329804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C91D0F3-C92E-4436-8801-2A2793EE48A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C91D0F3-C92E-4436-8801-2A2793EE48A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C91D0F3-C92E-4436-8801-2A2793EE48A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C91D0F3-C92E-4436-8801-2A2793EE48A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7050D1D2-71AC-4EDB-9EC3-2D2D8FDCE478}
+	EndGlobalSection
+EndGlobal
